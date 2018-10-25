@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="junit1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/org.hamcrest.core_1.3.0.v201303031735.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/pr17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
